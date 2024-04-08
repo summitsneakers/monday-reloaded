@@ -1,1 +1,1 @@
-export const collectionName = 'Summit Sneakers';
+export const collectionName = 'Monday Reloaded';
